@@ -1,0 +1,16 @@
+astroid==3.0.1
+autopep8==2.0.4
+colorama==0.4.6
+dill==0.3.7
+iniconfig==2.0.0
+isort==5.12.0
+mccabe==0.7.0
+mypy==1.6.1
+mypy-extensions==1.0.0
+packaging==23.2
+platformdirs==3.11.0
+pluggy==1.3.0
+pycodestyle==2.11.1
+pylint==3.0.2
+tomlkit==0.12.2
+typing_extensions==4.8.0
