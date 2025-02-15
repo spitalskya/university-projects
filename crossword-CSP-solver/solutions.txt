@@ -1,0 +1,172 @@
+==== Crossword No.1 ====
+####
+#it#
+#t##
+##i#
+#it#
+####
+elapsed time crossword: 0.00131
+elapsed time total: 0.00154
+
+Given all the solved crosswords are correct, you have so far 0.5 points!
+========================
+==== Crossword No.2 ====
+#####
+#mot#
+#a#o#
+#nut#
+#l#e#
+#yam#
+#####
+elapsed time crossword: 0.00447
+elapsed time total: 0.00607
+
+Given all the solved crosswords are correct, you have so far 1.5 points!
+========================
+==== Crossword No.3 ====
+######
+#rasp#
+#isle#
+#stop#
+#ire##
+#no#s#
+#gnaw#
+##ale#
+#mute#
+#atop#
+######
+elapsed time crossword: 0.09882
+elapsed time total: 0.10494
+
+Given all the solved crosswords are correct, you have so far 3.0 points!
+========================
+==== Crossword No.4 ====
+#######
+#ohmic#
+#reach#
+####he#
+#below#
+#ovary#
+#led###
+#tryst#
+####on#
+#count#
+#######
+elapsed time crossword: 0.12015
+elapsed time total: 0.22519
+
+Given all the solved crosswords are correct, you have so far 4.5 points!
+========================
+==== Crossword No.5 ====
+########
+#slogan#
+#canine#
+#am##ye#
+#read###
+#almond#
+#by##or#
+###puny#
+#irises#
+########
+elapsed time crossword: 0.14812
+elapsed time total: 0.37336
+
+Given all the solved crosswords are correct, you have so far 6.0 points!
+========================
+==== Crossword No.6 ====
+#########
+#cholera#
+#he#o#at#
+#are#nth#
+#m#l#e#i#
+#oaf#err#
+#is#o#us#
+#sherbet#
+#########
+elapsed time crossword: 0.04036
+elapsed time total: 0.41384
+
+Given all the solved crosswords are correct, you have so far 8.0 points!
+========================
+==== Crossword No.7 ====
+############
+#echo#noble#
+#c#ante#rev#
+#hazy#weave#
+#onyx#satan#
+##a####t####
+#glad#weave#
+#i#pi#index#
+#shaven#arc#
+#mica#copse#
+#omen#extol#
+############
+elapsed time crossword: 2.76376
+elapsed time total: 3.17765
+
+Given all the solved crosswords are correct, you have so far 10.0 points!
+========================
+==== Crossword No.8 ====
+######################
+#rogue#slack#gourd#ad#
+#ado#gleeman#alp#ogre#
+#me#viola#tepid#d#oat#
+#p#t#sol#j#wit#cur#be#
+##bra#t#pet#e#tepid#c#
+#dying#altho#telecast#
+#o#melon#sour#pl#ere##
+#n##neat#alto#eat#tea#
+#e#uteri#mere#era#sky#
+#####m#####a####k#####
+#of#waft#kin#ogle#emu#
+#we#anew#ink#plan#oar#
+#erst#roast#seer#once#
+##rater#smote#even#at#
+#tun#butte#aroma#tare#
+#ilk#bluet#pupal#odor#
+#me#s#err#l#man#l#on##
+#e#tea#f#has#l#oat#it#
+##auxin#auxin#auxin#i#
+#inn#roost#roost#tore#
+######################
+elapsed time crossword: 4.54387
+elapsed time total: 7.72161
+
+Given all the solved crosswords are correct, you have so far 12.0 points!
+========================
+==== Crossword No.9 ====
+##############################
+#draft#mince#bayou#resumption#
+#ran#onerous#use#poem#pal#d#o#
+#an#blank#epoch#h#nab#or#ill##
+#m#o#lid#w#yak#rat#pi#noisy#v#
+##ova#l#the#t#kapok#t##on###i#
+#draft#moist#pinpoint#in##spa#
+#o##aria#spit#lei#teens#a#pi##
+#e#draft#tyro#ten#her#six#ant#
+#####g#####a####e#####us#type#
+#so#riot#dad#toss#ope#emir#ox#
+#on#acne#ire#onus#bin####alit#
+#tern#enema#poet#windup#twin##
+##roger#amber#rush#pi#athlete#
+#boa#gorge#rotor#aeon##ye###g#
+#run#guild#ensue#trig#up##tag#
+#is#b#see#l#gas#l#an##deb#ay##
+#o#woo#l#sea#r#tea#to#d#organ#
+##draft#moist#moist#i#ebb##he#
+#coy#focal#sower#soil#ruble#b#
+#######a#####e#########dye####
+#ma#entrap#wanton#spread#visa#
+#or#leo#milestone#or###hoe#an#
+#id#me##########to#yam#ill#b##
+#sop#dispatcher##no#raise##lo#
+#trial#oar###nevi#fair#toiler#
+####let#myth#even##jam###no#g#
+#mimosa#pa###mutt#ma#opt###pa#
+#ad#esp#anal#ye#operative#can#
+##############################
+elapsed time crossword: 15.05468
+elapsed time total: 22.77639
+
+Given all the solved crosswords are correct, you have so far 14.0 points!
+========================

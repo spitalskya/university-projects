@@ -1,0 +1,203 @@
+CountryOfOrigin,Continent,FarmName,Altitude,Region,Producer,Variety,ProcessingMethod,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,CleanCup,Sweetness,Overall,TotalCupPoints,MoisturePercentage
+Colombia,South America,Finca El Paraiso,1815,"Piendamo,Cauca",Diego Samuel Bermudez,Castillo,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,10.0,10.0,10.0,8.58,89.33,11.8
+Taiwan,Asia,Royal Bean Geisha Estate,1200,Chiayi,曾福森,Gesha,Washed / Wet,8.5,8.5,7.92,8.0,7.92,8.25,10.0,10.0,10.0,8.5,87.58,10.5
+Laos,Asia,OKLAO coffee farms,1300,Laos Borofen Plateau,WU TAO CHI,Java,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,10.0,10.0,10.0,8.33,87.42,10.4
+Costa Rica,North America,La Cumbre,1900,"Los Santos,Tarrazu",Santa Maria de Dota,Gesha,Washed / Wet,8.08,8.17,8.17,8.25,8.17,8.08,10.0,10.0,10.0,8.25,87.17,11.8
+Colombia,South America,Finca Santuario,1975,"Popayan,Cauca",Camilo Merizalde,Red Bourbon,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,10.0,10.0,10.0,8.25,87.08,11.6
+Guatemala,North America,La Colina,1668,Chimaltenango,Emilio Antonio Medina Garcia,Gesha,Washed / Wet,8.33,8.33,8.25,7.83,7.83,8.17,10.0,10.0,10.0,8.25,87.0,10.7
+Taiwan,Asia,野牡丹咖啡莊園 Melastoma Coffee Estate,1250,Chiayi,黃保錫,Gesha,Washed / Wet,8.33,8.17,8.08,8.0,7.83,8.25,10.0,10.0,10.0,8.25,86.92,9.1
+Taiwan,Asia,七彩琉璃咖啡莊園 Chi Tsai Liu Li Ecological Farm,1200,Chiayi,莊家榮,Sl34+Gesha,Natural / Dry,8.25,8.25,8.17,8.0,7.92,8.08,10.0,10.0,10.0,8.08,86.75,10.0
+Taiwan,Asia,亮軒咖啡莊園 Liang Xuan Coffee Farm,1250,Chiayi,鍾旭亮,SL34,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8.0,10.0,10.0,10.0,8.25,86.67,10.8
+"Tanzania, United Republic Of",Africa,MASHIMA AMCOS,1550,KILIMANJARO,DORMAN (T) LIMITED,Bourbon,Washed / Wet,8.08,8.17,8.08,8.17,8.0,8.0,10.0,10.0,10.0,8.0,86.5,11.0
+Ethiopia,Africa,TADE GG,2000,Guji,Tesfaye Bekele Degaga,Ethiopian Heirlooms,Natural / Dry,8.08,8.25,8.0,8.08,7.92,7.92,10.0,10.0,10.0,8.0,86.25,11.8
+Guatemala,North America,Karen Acajabon Coffee Farm,2000,Acatenango,Karen Acajabon,Gesha,Natural / Dry,8.08,8.0,8.0,7.75,8.25,8.17,10.0,10.0,10.0,8.0,86.25,11.5
+Taiwan,Asia,古峰咖啡莊園 Goodfun Coffee Farm,1250,Yunlin,賴彥合,Gesha,Washed / Wet,8.08,8.0,8.08,8.08,8.0,8.0,10.0,10.0,10.0,8.0,86.25,11.9
+Ethiopia,Africa,Gelana Geisha,1950,Guji,Kerchanshe,Gesha,Natural / Dry,7.67,8.17,8.0,8.33,8.0,8.0,10.0,10.0,10.0,8.0,86.17,11.6
+Colombia,South America,La Gaitania,1850,tolima,Josue Enciso Suarez,Caturra,Washed / Wet,8.08,8.0,8.08,7.92,8.08,8.0,10.0,10.0,10.0,8.0,86.17,10.6
+Taiwan,Asia,青葉咖啡莊園,1100,Chiayi,葉世遠,SL34,Pulped natural / honey,8.17,8.08,8.0,7.92,8.0,7.92,10.0,10.0,10.0,8.0,86.08,10.2
+Ethiopia,Africa,Halo Bariti Cooprative,2000,"Gedeb,Yirgacheffe,Sidamo",Halo Bariti Cooprative,"Wolishalo,Kurume,Dega",Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,10.0,10.0,10.0,8.08,86.08,11.3
+Taiwan,Asia,東璧咖啡莊園,1300,"Shibi, Gukeng Township, Yunlin County 郵遞區號 , Taiwan (R.O.C.)",陳景立,Gesha,Natural / Dry,8.0,8.17,8.0,7.92,7.92,7.92,10.0,10.0,10.0,8.17,86.08,10.3
+Taiwan,Asia,櫻桃果古坑咖啡莊園,1200,"Gukeng Township, Yunlin County",王瀅惠,Gesha,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8.0,10.0,10.0,10.0,8.17,85.92,11.0
+"Tanzania, United Republic Of",Africa,BURKA,1585,Arusha,DORMAN (T) LIMITED,Bourbon,Washed / Wet,8.17,8.0,7.92,7.92,8.17,7.75,10.0,10.0,10.0,7.92,85.83,10.0
+Guatemala,North America,Finca Vista Hermosa,1900,"Guatemala, Fraijanes, Santa Rosa",Fredy Orantes,Gesha,Natural / Dry,8.0,7.92,8.08,7.92,7.75,8.0,10.0,10.0,10.0,8.08,85.75,11.6
+Taiwan,Asia,仲大叔咖啡莊園Uncle Chung.s Coffee Farm,850,卓溪鄉Zhuoxi Township,游婷淯 YU TING YU,Typica,Natural / Dry,8.08,8.0,7.92,7.92,8.0,7.83,10.0,10.0,10.0,7.92,85.67,10.4
+Thailand,Asia,Hom Doi,1600,Chiang Mai,Lisu farmers,Catimor,Pulped natural / honey,7.67,8.0,7.83,8.0,8.08,8.0,10.0,10.0,10.0,8.08,85.67,9.8
+Colombia,South America,El Diamante,1350,Quindio,Farm Bedoya Arango,Castillo Paraguaycito,,8.08,8.0,7.83,8.17,7.75,7.83,10.0,10.0,10.0,8.0,85.67,11.3
+Taiwan,Asia,永舜咖啡莊園,1250,Yunlin,蘇甘永,SL34,Washed / Wet,7.83,8.0,7.92,8.0,8.0,7.92,10.0,10.0,10.0,7.92,85.58,10.6
+Brazil,South America,Fazenda Recreio,1250,Região Vulcânica,Diogo T. Dias de Macedo,,Pulped natural / honey,7.83,8.08,7.83,7.92,8.0,7.83,10.0,10.0,10.0,8.0,85.5,11.3
+Taiwan,Asia,鄒築園ZouZhouYuan,1300,Chiayi,方政倫,Gesha,Natural / Dry,7.92,7.92,8.0,7.92,7.83,7.92,10.0,10.0,10.0,8.0,85.5,9.1
+Taiwan,Asia,嵩岳咖啡莊園,1200,Yunlin,郭志豪,Gesha,Natural / Dry,8.17,8.08,7.92,8.0,7.58,7.83,10.0,10.0,10.0,7.92,85.5,10.6
+Taiwan,Asia,他扶芽有機農園,1060,Chiayi,陳清龍,Gesha,Natural / Dry,8.0,8.0,8.0,7.92,7.75,7.92,10.0,10.0,10.0,7.92,85.5,10.2
+United States (Hawaii),North America,Hokukano Ranch,600,Kona,Kona Hills LLC,Typica,Washed / Wet,8.0,7.92,8.0,7.83,7.67,8.0,10.0,10.0,10.0,8.0,85.42,9.3
+Taiwan,Asia,鄉庭有機農場Siang-Ting Organic Farm,200,壽豐鄉Shoufeng Township,張進義Zhang Jin-Yi,Typica,Washed / Wet,8.0,8.0,7.83,7.83,7.75,7.92,10.0,10.0,10.0,8.08,85.42,11.4
+Taiwan,Asia,鄉庭有機農場Siang-Ting Organic Farm,200,壽豐鄉Shoufeng Township,張進義Zhang Jin-Yi,Typica,Washed / Wet,7.92,8.0,7.83,7.92,7.83,7.83,10.0,10.0,10.0,8.0,85.33,10.8
+Taiwan,Asia,金讚咖啡農莊園(Jinzan Coffee Estate),668,"Dongshan Dist., Tainan City","葉明讚 (YE,MING-ZAN)",Gesha,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,10.0,10.0,10.0,8.0,85.33,11.3
+Ethiopia,Africa,Eshetu farm,1950,Oromia,Eshetu,Ethiopian Heirlooms,Washed / Wet,7.67,7.83,7.83,8.0,8.0,8.0,10.0,10.0,10.0,8.0,85.33,9.9
+Ethiopia,Africa,Uraga Bisrat washing station,2250,Southern Ethiopia Guji,Bisrat Melaku,Ethiopian Heirlooms,Natural / Dry,8.0,8.08,8.0,8.0,7.67,7.75,10.0,10.0,10.0,7.83,85.33,12.3
+Ethiopia,Africa,YHAENU PLC FARM,1700,OROMIA,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.92,7.75,7.83,8.17,8.0,7.75,10.0,10.0,10.0,7.83,85.25,9.4
+Taiwan,Asia,卓武山咖啡農場,1200,Chiayi,許定燁,Gesha,Washed / Wet,8.0,7.92,7.83,7.92,7.83,7.83,10.0,10.0,10.0,7.92,85.25,9.5
+Taiwan,Asia,御香咖啡園 YU SIANG Coffee Estate,650,"Dongshan Dist., Tainan City","陳建源(CHEN, JIAN-YUAN)",Gesha,Pulped natural / honey,8.25,8.08,7.83,7.75,7.67,7.75,10.0,10.0,10.0,7.92,85.25,11.3
+Kenya,Africa,Small Holder,1750,Central,Small Holder,SL28,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8.0,10.0,10.0,10.0,8.0,85.25,9.2
+Taiwan,Asia,皇庭咖啡莊園,850,"Caoling , Gukeng Township, Yunlin County",陳榮豐,Gesha,Washed / Wet,7.75,7.92,7.75,8.0,7.83,7.92,10.0,10.0,10.0,8.0,85.17,10.3
+Taiwan,Asia,花蓮縣秀林鄉特用作物（咖啡）產銷第一班Agriculture Production and Marketing Groups of Hualien Shlin township special crop (coffee) 1st class,400,秀林鄉Show Linxia Township,李志祥 Li Zhi-xia,Typica,Natural / Dry,8.0,7.92,7.83,7.92,7.75,7.75,10.0,10.0,10.0,7.92,85.08,10.0
+Taiwan,Asia,八一高地,1000,台灣屏東,陳科翰,Typica,Washed / Wet,8.0,8.08,7.67,7.75,7.92,7.83,10.0,10.0,10.0,7.83,85.08,10.5
+Taiwan,Asia,香夾蘭莊園,800,苗栗縣,黃簡秋蘭,Gesha,Washed / Wet,8.0,7.92,7.67,8.0,7.75,7.83,10.0,10.0,10.0,7.92,85.08,10.0
+Uganda,Africa,Gideon Kule,1905,Rwenzori,Kyagalanyi coffee limited,SL14,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.92,10.0,10.0,10.0,7.92,85.0,11.0
+Taiwan,Asia,愛姬咖啡莊園iGfarm,150,壽豐鄉Shoufeng Township,劉孟宗 LIU MENG TSUNG,Typica,,7.92,8.0,7.92,8.0,7.58,7.75,10.0,10.0,10.0,7.83,85.0,10.9
+Taiwan,Asia,青山坪咖啡農場,800,Yunlin,王清連,Gesha,Natural / Dry,8.17,8.08,7.83,7.67,7.67,7.75,10.0,10.0,10.0,7.83,85.0,10.1
+Guatemala,North America,varias fincas,1600,Antigua,Varios productores,Caturra,Washed / Wet,7.67,8.08,7.67,8.0,7.92,7.83,10.0,10.0,10.0,7.83,85.0,9.9
+Guatemala,North America,san francisco cotzal,1600,quiche,san francisco cotzal,Caturra,Washed / Wet,7.83,7.92,7.75,8.0,7.75,7.75,10.0,10.0,10.0,7.92,84.92,11.7
+Taiwan,Asia,六曲窩,375,新竹縣,黃俊淦,Typica,Washed / Wet,7.92,7.92,7.83,7.83,7.75,7.83,10.0,10.0,10.0,7.83,84.92,9.5
+Taiwan,Asia,北平山林,230,新竹縣,戴禎男,Yellow Bourbon,Natural / Dry,8.0,8.0,7.75,7.75,7.67,7.75,10.0,10.0,10.0,7.92,84.83,9.7
+Indonesia,Asia,PT Indo CafCo North Sumatera,1200,Aceh Tengah,PT Indo CafCo North Sumatera,Catimor,,7.83,7.92,7.75,7.83,7.83,7.83,10.0,10.0,10.0,7.83,84.83,11.9
+Peru,South America,Ruya Yayu Farm,1750,Villa Rica,Ruya Yayu,Gesha,Washed / Wet,8.0,8.0,7.83,7.83,7.58,7.83,10.0,10.0,10.0,7.75,84.83,10.7
+"Tanzania, United Republic Of",Africa,IYENGA,1654,Mbeya,IYENGA AMCOS,Bourbon,Washed / Wet,7.92,7.75,7.75,7.92,7.83,7.83,10.0,10.0,10.0,7.83,84.83,11.2
+Taiwan,Asia,優遊吧斯瑪翡咖啡莊園,1300,Chiayi,鄭虞坪,SL34,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8.0,10.0,10.0,10.0,8.0,84.83,9.5
+Taiwan,Asia,森悅高峰咖啡莊園,1400,Nantou,吳振宏,SL34,Washed / Wet,7.67,7.92,7.92,7.83,7.75,7.83,10.0,10.0,10.0,7.83,84.75,10.4
+Brazil,South America,Fazenda Guariroba,1100,Campo das Vertentes,Homero Paiva,Yellow Bourbon,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,10.0,10.0,10.0,7.83,84.75,11.2
+Panama,North America,La Santa,1200,Boquete,La Santa,Catuai,Washed / Wet,7.83,7.83,7.75,7.92,7.83,7.75,10.0,10.0,10.0,7.83,84.75,10.3
+Taiwan,Asia,嵐雲綠海咖啡,1200,台灣屏東,卓榮華,Yellow Bourbon,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,10.0,10.0,10.0,7.75,84.75,10.0
+Guatemala,North America,Varias Fincas,1600,Huehuetenango,Varios Productores,Caturra,Washed / Wet,7.67,8.0,7.67,7.83,7.92,7.67,10.0,10.0,10.0,7.92,84.67,10.6
+Costa Rica,North America,Gamboa Farm,1850,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.58,7.83,7.5,7.67,7.83,7.67,10.0,10.0,10.0,8.58,84.67,10.0
+Taiwan,Asia,羅馬8號莊園,250,新竹縣,羅政宏,Typica,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.92,84.58,9.6
+Taiwan,Asia,大鋤花間(Dachu Coffee Estate),700,"( Dongshan Dist., Tainan City)","郭雅聰（KUO,YA-TSUNG）",Gesha,Pulped natural / honey,8.17,7.83,7.67,7.83,7.67,7.67,10.0,10.0,10.0,7.75,84.58,11.5
+Nicaragua,North America,Finca Las Dos Marias,1350,ESTELI,NicaNoLA Coffee,Catrenic,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,10.0,10.0,10.0,8.0,84.58,9.9
+Taiwan,Asia,雅慕伊咖啡莊園,1250,Chiayi,浦瀚文,Gesha,Washed / Wet,8.08,7.83,7.67,7.67,7.67,7.75,10.0,10.0,10.0,7.92,84.58,11.2
+Taiwan,Asia,名陽園,1450,Chiayi,王政淵,SL34,Natural / Dry,7.83,8.0,7.67,7.75,7.67,7.75,10.0,10.0,10.0,7.92,84.58,10.3
+Vietnam,Asia,CupnCare,650,Quang Tri,TONG PHUC LAM TRADING SERVICES COMPANY LIMITED,Catimor,Natural / Dry,8.0,7.83,7.75,7.67,7.58,7.83,10.0,10.0,10.0,7.92,84.58,11.6
+Costa Rica,North America,La Cumbre,1900,"Los Santos,Tarrazu",Santa Maria de Dota,Gesha,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,10.0,10.0,10.0,7.92,84.5,11.7
+Taiwan,Asia,苗55咖啡莊園,520,苗栗縣,李鴻儀,unknown,Pulped natural / honey,7.75,7.92,7.83,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.5,11.3
+Honduras,North America,La Cuchilla,1368,"Centro, Lagunetillas-Ajuterique, Comayagua",Jose Nahum Maldonado,Catuai,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.5,9.8
+Ethiopia,Africa,TRACON TRADING PLC,1943,Ethiopia,TRACON TRADING PLC,Ethiopian Heirlooms,Washed / Wet,7.92,7.83,7.75,7.92,7.58,7.67,10.0,10.0,10.0,7.83,84.5,10.9
+Taiwan,Asia,917農場 (917 Farm),400,玉里鎮Yuli Township,黃怡瑄 Huang Yi-xuan,Typica,Natural / Dry,8.08,7.92,7.75,7.83,7.5,7.58,10.0,10.0,10.0,7.83,84.5,10.2
+Taiwan,Asia,皇庭咖啡莊園,850,Yunlin,陳榮豐,Gesha,Washed / Wet,7.83,8.0,7.5,7.75,7.75,7.75,10.0,10.0,10.0,7.83,84.42,10.1
+Guatemala,North America,Finca Alta Luz,1350,Huehuetenango,Maria de los Angeles Perez,Bourbon,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,10.0,10.0,10.0,7.75,84.33,9.2
+United States (Hawaii),North America,Miranda's Farm,1300,Ka'u district of Big Island,Jose & Berta Miranda,Catuai,Washed / Wet,7.92,7.83,7.75,7.92,7.5,7.67,10.0,10.0,10.0,7.75,84.33,10.1
+Ethiopia,Africa,Bisrat Melaku Washing Station,2361,Addis Ababa,Bisrat Melaku,Ethiopian Heirlooms,Natural / Dry,7.83,7.75,7.58,7.92,8.0,7.5,10.0,10.0,10.0,7.75,84.33,11.0
+El Salvador,North America,San Nicolas,1500,Chalatenango,various producers,Pacamara,Pulped natural / honey,7.83,7.83,7.83,7.83,7.67,7.67,10.0,10.0,10.0,7.67,84.33,10.3
+Colombia,South America,Asociacion Tayronaca,2100,Sierra Nevada de Santa Marta,Grupo Tap,Castillo and Colombia blend,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.67,10.0,10.0,10.0,7.83,84.33,11.6
+Indonesia,Asia,"Lintong Nihuta/Dolok Sanggul,Sumatera Utara",1300,"Lintong Nihuta/Dolok Sanggul,Sumatera Utara","Lintong Nihuta/Dolok Sanggul,Sumatera Utara","Jember,TIM-TIM,Ateng",Wet Hulling,7.67,7.67,7.83,7.83,7.67,7.75,10.0,10.0,10.0,7.83,84.25,11.5
+Guatemala,North America,San jose del lago,1600,Atitlán,"Cafetalera Paquim, S.A.",Typica,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.75,84.25,10.0
+Madagascar,Africa,Mandroso,1500,Itasy,Marc Dumont,Bourbon,Washed / Wet,7.92,7.92,7.58,7.75,7.58,7.67,10.0,10.0,10.0,7.83,84.25,12.1
+Honduras,North America,La Cuchilla,1368,"Centro, Lagunetillas-Ajuterique, Comayagua",Jose Nahum Maldonado,Catuai,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,10.0,10.0,10.0,7.75,84.17,10.2
+Guatemala,North America,san francisco cotzal,1600,quiche,san francisco cotzal,Caturra,Washed / Wet,7.58,7.92,7.58,7.83,7.75,7.67,10.0,10.0,10.0,7.75,84.08,11.0
+Taiwan,Asia,竹崙子莊園,150,新北市,邱建明,unknown,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,10.0,10.0,10.0,7.67,84.08,10.8
+Taiwan,Asia,元富咖啡莊園,800,Yunlin,李泓錡,Gesha,Natural / Dry,7.92,7.75,7.67,7.75,7.75,8.0,9.33,10.0,10.0,7.92,84.08,10.6
+Guatemala,North America,varias fincas,1550,Oriente Santa rosa,varios productores,Caturra,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,10.0,10.0,10.0,7.67,84.08,11.0
+Guatemala,North America,varias fincas,1550,Sierra de las minas,varios productores,Caturra,Washed / Wet,7.67,7.92,7.67,7.75,7.67,7.58,10.0,10.0,10.0,7.75,84.0,11.0
+Honduras,North America,finca de la casa,1800,"San Andrés, Lempira",Irma Consuelo Bonilla Hernandez,Typica,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,10.0,10.0,10.0,7.67,84.0,9.4
+"Tanzania, United Republic Of",Africa,KONGONI ESTATE,1675,ARUSHA,DORMAN (T) LTD,Bourbon,Washed / Wet,7.58,7.67,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.0,9.8
+Ethiopia,Africa,Ecom Agroindustrial,1800,Sidama,Ecom Agroindustrial,Ethiopian Heirlooms,Washed / Wet,8.0,7.75,7.5,7.67,7.67,7.67,10.0,10.0,10.0,7.75,84.0,11.3
+"Tanzania, United Republic Of",Africa,MASHIMA AMCOS,1550,KILIMANJARO,DORMAN,Bourbon,Washed / Wet,7.75,7.58,7.58,7.92,7.67,7.75,10.0,10.0,10.0,7.75,84.0,11.6
+Colombia,South America,COO,1550,Huila,Cooperativa Central de Caficultores del Huila,Caturra,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,10.0,10.0,10.0,7.67,84.0,13.3
+Costa Rica,North America,Gamboa Farm,1850,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.67,7.92,7.58,7.75,7.67,7.58,10.0,10.0,10.0,7.75,83.92,9.5
+Guatemala,North America,El Morito,1900,New Oriente,Various producers,Gesha,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,10.0,10.0,10.0,7.75,83.92,11.9
+Guatemala,North America,San jose del lago,1600,Atitlán,"Cafetalera Paquim, S.A.",Bourbon,Washed / Wet,7.58,7.83,7.58,7.75,7.67,7.75,10.0,10.0,10.0,7.75,83.92,10.0
+Thailand,Asia,Baan San Charoen,1350,Nan,Phaibul Kitcharoen,Catimor,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,10.0,10.0,10.0,7.75,83.92,11.6
+Colombia,South America,,1411,Pereira,RACAFE & CIA SCA,,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.67,10.0,10.0,10.0,7.67,83.83,11.9
+Guatemala,North America,FINCA ALTA LUZ,1400,HUEHUETENANGO,MARIA DE LOS ANGELES PEREZ,"BOURBON, CATURRA Y CATIMOR",Natural / Dry,7.58,7.83,7.67,7.67,7.67,7.67,10.0,10.0,10.0,7.75,83.83,10.8
+Ethiopia,Africa,Gerbicho Lela Cooperative,2000,Sidama,Sidama Coffee Farmers Cooperative Union,Ethiopian Heirlooms,Washed / Wet,7.83,7.67,7.5,7.92,7.5,7.67,10.0,10.0,10.0,7.75,83.83,12.0
+Colombia,South America,N / A,1700,Cauca,Regional producers,Caturra,Washed / Wet,7.92,7.75,7.42,7.58,7.92,7.67,10.0,10.0,10.0,7.58,83.83,12.1
+United States (Hawaii),North America,various farms,500,Ka'u,Isla Custom Coffees,Typica,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,10.0,10.0,10.0,7.75,83.83,11.8
+Colombia,South America,La Gallera,1800,Tolima,Oscar Javier Paez & Family,Bourbon Sidra,Pulped natural / honey,7.67,7.92,7.67,7.58,7.67,7.67,10.0,10.0,10.0,7.58,83.75,10.6
+Mexico,North America,Finca Custepec,1200,Chiapas,Armando Pohlenz,Sarchimor,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,10.0,10.0,10.0,7.75,83.75,11.7
+Taiwan,Asia,永舜咖啡莊園,1250,"Caoling , Gukeng Township, Yunlin County",蘇甘永,SL34,Washed / Wet,7.67,7.67,7.75,7.75,7.5,7.67,10.0,10.0,10.0,7.67,83.67,10.0
+Myanmar,Asia,Aromatic,1400,South Shan State,Lim,"Catimor,Catuai,Caturra,Bourbon",Natural / Dry,7.83,7.83,7.67,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.67,10.2
+Taiwan,Asia,恆珊農場,300,新竹縣,羅以珊,unknown,Pulped natural / honey,7.58,7.75,7.67,7.83,7.5,7.67,10.0,10.0,10.0,7.67,83.67,9.2
+Honduras,North America,Maria Bonita,1470,"San Jose, La Paz",Pedro Turcios,Parainema,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,7.67,83.67,11.1
+Taiwan,Asia,正源咖啡,325,新竹縣,彭文正,unknown,Natural / Dry,7.58,7.67,7.5,7.75,7.75,7.67,10.0,10.0,10.0,7.67,83.58,8.4
+Taiwan,Asia,宋明光	蝙蝠洞莊園	蝙蝠洞莊園,275,新竹縣,宋明光,Typica,Pulped natural / honey,7.58,7.75,7.58,7.75,7.58,7.67,10.0,10.0,10.0,7.67,83.58,9.1
+Guatemala,North America,SAN FRANCISCO COTZAL,1600,QUICHE,SAN FRANCISCO COTZAL,Caturra,Washed / Wet,7.58,7.83,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.75,83.58,10.9
+Honduras,North America,varias,1400,Marcala,comsa,SHG,Washed / Wet,7.75,7.67,7.58,7.58,7.58,7.67,10.0,10.0,10.0,7.67,83.5,11.2
+Colombia,South America,La fortaleza,1700,Popayán Cauca,La fortaleza,Caturra,Washed / Wet,7.75,7.75,7.5,7.58,7.83,7.5,10.0,10.0,10.0,7.58,83.5,12.2
+Thailand,Asia,Doi Tung Development Project,1390,North of Thailand,Doi Tung Development Project,Bourbon,Washed / Wet,7.42,7.83,7.58,7.67,7.67,7.75,10.0,10.0,10.0,7.58,83.5,13.1
+Ethiopia,Africa,YHAENU PLC FARM,1700,OROMIA,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.42,7.42,7.42,8.0,7.92,7.67,10.0,10.0,10.0,7.67,83.5,10.4
+Thailand,Asia,Doi Nan,1450,Suan Ya Lung,Chalerm,Java,Washed / Wet,7.67,7.67,7.5,7.67,7.58,7.67,10.0,10.0,10.0,7.67,83.42,11.6
+Uganda,Africa,Bugisu Shamba,1650,Mt Elgon,Kawacom Uganda Ltd,SL14,Washed / Wet,7.75,7.75,7.5,7.5,7.58,7.58,10.0,10.0,10.0,7.75,83.42,10.1
+Taiwan,Asia,香香久溢咖啡莊園,1100,Chiayi,吳昭昀,Typica + SL34,Washed / Wet,7.75,7.92,7.67,7.92,7.75,7.83,8.67,10.0,10.0,7.92,83.42,10.1
+Uganda,Africa,Masereka William,1905,Rwenzori,Kyagalanyi coffee limited,SL14,Washed / Wet,7.75,7.67,7.58,7.5,7.67,7.5,10.0,10.0,10.0,7.67,83.33,11.1
+Taiwan,Asia,四分子道,250,新竹縣,林士傑,Typica,Pulped natural / honey,7.58,7.67,7.5,7.75,7.5,7.58,10.0,10.0,10.0,7.75,83.33,9.7
+Guatemala,North America,MI CAFECITO & LA PROVIDENCIA,1302,NEW ORIENTE & HUEHUETENANGO,500 PRODUCERS,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,7.5,7.75,7.58,7.75,7.67,7.58,10.0,10.0,10.0,7.5,83.33,11.4
+Taiwan,Asia,木華莊園,300,桃園市,簡進財,Typica,Washed / Wet,7.58,7.67,7.58,7.75,7.42,7.58,10.0,10.0,10.0,7.75,83.33,9.6
+Colombia,South America,El Laurel,1100,Sierra Nevada de Santa Marta,Eric SELLIN,Caturra,Washed / Wet,7.67,7.67,7.42,7.75,7.5,7.75,10.0,10.0,10.0,7.58,83.33,13.5
+Costa Rica,North America,Gamboa Farm,1850,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.75,10.0,10.0,10.0,7.67,83.33,0.0
+Taiwan,Asia,東泓咖啡莊園,750,Yunlin,陳善東,SL34,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.5,10.0,10.0,10.0,7.5,83.33,10.7
+Thailand,Asia,Doi Tung Development Project,1400,North of Thailand,Doi Tung Development Project,Typica,Washed / Wet,7.92,7.92,7.75,7.33,7.58,7.5,10.0,10.0,10.0,7.33,83.33,12.3
+"Tanzania, United Republic Of",Africa,MASHIMA AMCOS,1550,KILIMANJARO,DORMAN TANZANIA LTD,Bourbon,Washed / Wet,7.92,7.67,7.42,7.5,7.67,7.58,10.0,10.0,10.0,7.5,83.25,10.4
+Brazil,South America,Fazenda Conquista e Capoeirinha,950,Sul de Minas,Ipanema Agrícola SA,Mundo Novo,Natural / Dry,7.58,7.5,7.5,7.83,7.67,7.5,10.0,10.0,10.0,7.67,83.25,11.6
+Taiwan,Asia,棒棒有機農場,1150,苗栗縣,林木青,unknown,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.5,10.0,10.0,10.0,7.58,83.25,9.6
+Colombia,South America,Buenos Aires,1390,Quindio,Chucho Bedoya,"Red Bourbon,Caturra",Anaerobico 1000h,7.67,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.5,83.25,10.9
+Honduras,North America,La Bendicion,1600,"Marcala, La Paz",Joaquin Suazo,Lempira,Washed / Wet,7.67,7.75,7.67,7.58,7.5,7.58,10.0,10.0,10.0,7.5,83.25,10.5
+Honduras,North America,varias,1400,Marcala,comsa,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,7.67,83.25,11.3
+Taiwan,Asia,蜜多莊園,250,新竹縣,張新榮,Typica,Natural / Dry,7.75,7.75,7.5,7.75,7.5,7.42,10.0,10.0,10.0,7.5,83.17,9.7
+Taiwan,Asia,迎曦山丘,340,苗栗縣,翁召安,unknown,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10.0,10.0,10.0,7.67,83.17,11.8
+Laos,Asia,Nongluang Bolaven Plateau,1250,"Nongluang Bolaven Plateau, Champasack, Lao PDR",Dao Heuang Group,Catimor,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.5,10.0,10.0,10.0,7.58,83.08,11.8
+Honduras,North America,La Cuchilla,1368,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10.0,10.0,10.0,7.58,83.08,10.6
+Honduras,North America,Bethel,1450,"Los Planes de Santa Maria, La Paz",Omar Acosta,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.5,10.0,10.0,10.0,7.5,83.08,9.6
+Colombia,South America,EL PRADO,1650,HUILA,FRANKLIN DUSSAN,Caturra,Washed / Wet,8.0,7.67,7.42,7.58,7.58,7.42,10.0,10.0,10.0,7.33,83.0,13.1
+Taiwan,Asia,樹橋窩莊園,275,新竹縣,王維書,Typica,Pulped natural / honey,7.5,7.67,7.58,7.58,7.5,7.5,10.0,10.0,10.0,7.58,82.92,8.9
+Mexico,North America,Finca Tequihua,1350,"ZONGOLICA, VERACRUZ",Martin Tequihuatle Zepahua,Bourbon,Washed / Wet,7.75,7.5,7.42,7.67,7.58,7.5,10.0,10.0,10.0,7.5,82.92,11.9
+Colombia,South America,La Argentina,1350,Quindio,Augusto Torres,Typica Gesha,Washed / Wet,7.58,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,7.58,82.92,11.5
+Taiwan,Asia,嵩岳咖啡莊園,1200,"Shibi, Gukeng Township, Yunlin County 郵遞區號 , Taiwan (R.O.C.)",郭亮志,Gesha,,7.67,7.5,7.42,7.75,7.42,7.58,10.0,10.0,10.0,7.58,82.92,10.2
+Honduras,North America,Varias,1280,Marcala,Varios,Catuai,Washed / Wet,7.67,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,7.5,82.83,10.0
+Thailand,Asia,Doi Tung Development Project,1400,North of Thailand,Doi Tung Development Project,Gayo,Washed / Wet,7.17,7.92,7.58,7.5,7.58,7.67,10.0,10.0,10.0,7.42,82.83,11.8
+Vietnam,Asia,Ea tan Cooperative,900,"Eatan Commune, Krong Nang District, Krong Nang Province",Ea Tan Cooperative,Catimor,Pulped natural / honey,7.58,7.42,7.58,7.5,7.67,7.75,10.0,10.0,10.0,7.33,82.83,13.3
+Nicaragua,North America,Finca San Felipe,1200,Matagalpa,Exportadora Atlantic S.A.,SHG,Natural / Dry,7.33,7.58,7.25,7.33,7.75,8.17,10.0,10.0,10.0,7.33,82.75,10.5
+Costa Rica,North America,AMA EL AROMA Micro lot - Sunrise,1450,west Villege,various producers,SL28,Pulped natural / honey,7.33,7.5,7.25,7.92,7.75,7.58,10.0,10.0,10.0,7.42,82.75,11.8
+Colombia,South America,Federación Nacional de Cafeteros de Colombia,1700,Huila,Federación Nacional de Cafeteros de Colombia,Caturra,Washed / Wet,7.58,7.67,7.58,7.5,7.33,7.5,10.0,10.0,10.0,7.5,82.67,11.8
+Thailand,Asia,Doi Tung Development Project,1390,North of Thailand,Doi Tung Development Project,Caturra,Washed / Wet,7.33,7.58,7.58,7.5,7.67,7.67,10.0,10.0,10.0,7.33,82.67,13.0
+Thailand,Asia,Kevin Coffee,1200,Chiang Mai,Kevin Wattana,"Bourbon, Catimor, Caturra, Typica",Natural / Dry,7.5,7.58,7.5,7.42,7.5,7.58,10.0,10.0,10.0,7.58,82.67,11.2
+Honduras,North America,Bethel,1450,los planes de santa maria la paz,Omar Acosta,Catuai,Washed / Wet,7.67,7.58,7.33,7.5,7.58,7.5,10.0,10.0,10.0,7.5,82.67,9.6
+Taiwan,Asia,銅鏡莊園,165,苗栗縣,吳聲發,unknow,Natural / Dry,7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,7.5,82.58,9.8
+Taiwan,Asia,掬香園,465,苗栗縣,謝櫞楨,Caturra,Washed / Wet,7.67,7.58,7.42,7.42,7.5,7.5,10.0,10.0,10.0,7.5,82.58,8.4
+Nicaragua,North America,Finca Las Dos Marias,1350,ESTELI,NicaNoLA Coffee,Parainema,Washed / Wet,7.5,7.58,7.42,7.58,7.5,7.58,10.0,10.0,10.0,7.42,82.58,10.1
+El Salvador,North America,Agua Caliente,1200,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.5,10.0,10.0,10.0,7.33,82.5,11.3
+Panama,North America,Finca Lerida,1200,Boquete,Finca Lerida,Caturra,Washed / Wet,7.75,7.67,7.17,7.67,7.42,7.42,10.0,10.0,10.0,7.42,82.5,10.0
+Brazil,South America,Fazenda Pedra Preta,1100,MANTIQUEIRA / SUL DE MINAS,Eduardo Niero de Souza,Mundo Novo,Natural / Dry,7.5,7.58,7.5,7.5,7.67,7.42,10.0,10.0,10.0,7.33,82.5,11.8
+United States (Hawaii),North America,Kainaliu Farm,640,Kona,Kainaliu-Kona Coffee Company,Maragogype,Washed / Wet,7.33,7.58,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.5,82.5,11.7
+Mexico,North America,Las Trincheras,1340,Veracruz,Jose Cienfuegos,Pacamara,Washed / Wet,7.67,7.42,7.5,7.5,7.67,7.42,10.0,10.0,10.0,7.33,82.5,10.7
+Honduras,North America,La Cuchilla,1368,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.58,7.58,7.33,7.5,7.58,7.42,10.0,10.0,10.0,7.5,82.5,10.6
+Taiwan,Asia,弘欣咖啡園,139,新竹縣,胡明杰,unknown,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.5,10.0,10.0,10.0,7.58,82.5,8.4
+Nicaragua,North America,Finca Aurora,1275,"Matagalpa, Nicaragua",Sabio Coffee - Enrique Ferrufino & Tania Ferrufino,Caturra-Catuai,Washed / Wet,7.58,7.58,7.42,7.42,7.5,7.5,10.0,10.0,10.0,7.42,82.42,11.4
+Vietnam,Asia,Apollo Estate,1040,Dalat,"Yeh,Li Chuan",Catimor,Washed / Wet,7.5,7.5,7.33,7.5,7.5,7.42,10.0,10.0,10.0,7.58,82.33,10.5
+El Salvador,North America,Agua Caliente,1200,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.5,7.5,7.42,7.42,7.42,7.67,10.0,10.0,10.0,7.42,82.33,12.0
+El Salvador,North America,Agua Caliente,1200,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,10.0,10.0,10.0,7.17,82.33,11.8
+Taiwan,Asia,寶山謐靚,140,新竹縣,宋煦仁,unknown,Natural / Dry,7.67,7.58,7.42,7.5,7.33,7.42,10.0,10.0,10.0,7.42,82.33,10.8
+Peru,South America,Fundo La Libertado,1600,"Chanchamayo, La Merced",Sand Crispin Espiritu,Caturra,Washed / Wet,7.67,7.5,7.33,7.58,7.33,7.42,10.0,10.0,10.0,7.42,82.25,11.7
+United States (Hawaii),North America,Manny's Farm,1200,Kona district of Big Island,Manny Ochoa,Typica,Washed / Wet,7.75,7.42,7.33,7.5,7.33,7.5,10.0,10.0,10.0,7.33,82.17,10.6
+Kenya,Africa,Kenyan Highlands,1725,Kericho,Slelected small holder,"SL28,SL34,Ruiru11",Washed / Wet,7.5,7.5,7.42,7.5,7.25,7.5,10.0,10.0,10.0,7.5,82.17,11.2
+Honduras,North America,La Cuchilla,1368,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.67,7.5,7.25,7.5,7.5,7.33,10.0,10.0,10.0,7.42,82.17,10.6
+Taiwan,Asia,金暖農場,600,桃園市,何育達,unknown,Washed / Wet,7.5,7.67,7.33,7.5,7.25,7.33,10.0,10.0,10.0,7.5,82.08,9.7
+Taiwan,Asia,好客農埸,460,苗栗縣,彭聰明,unknown,Pulped natural / honey,7.33,7.42,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.5,82.08,8.1
+Taiwan,Asia,拉拉山祖嵐咖啡莊園,500,桃園市,宗素霞,unknown,Washed / Wet,7.5,7.58,7.42,7.42,7.25,7.42,10.0,10.0,10.0,7.42,82.0,8.2
+Thailand,Asia,Doi Tung Development Project,1000,North of Thailand,Doi Tung Development Project,Catimor,Washed / Wet,7.17,7.5,7.42,7.42,7.58,7.5,10.0,10.0,10.0,7.42,82.0,9.8
+Costa Rica,North America,San Diego Mill,1500,Corralillo Tarrazu,San Diego Mill,Caturra,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,10.0,10.0,10.0,7.5,82.0,10.5
+Guatemala,North America,Not Specificated,1450,Oriente,"Exportcafe, S.A.",,Washed / Wet,7.42,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,7.5,82.0,11.5
+Indonesia,Asia,Wahana Graha Makmur,1350,Sumatra,PT. Wahana Graha Makmur Group,,Pulped natural / honey,7.67,7.33,7.25,7.67,7.42,7.25,10.0,10.0,10.0,7.42,82.0,12.5
+Peru,South America,Fundo La Libertad,1600,"Chanchamayo, La Merced",Sandro Crispin Espiritu,Caturra,Washed / Wet,7.5,7.5,7.33,7.5,7.33,7.33,10.0,10.0,10.0,7.42,81.92,11.6
+Guatemala,North America,MULTIPLE SMALLHOLDER FARMS,1400,Antigua,La Minita,Caturra,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,10.0,10.0,10.0,7.42,81.92,10.3
+Taiwan,Asia,阿拉思家,300,桃園市,李秀圓,Typica,Pulped natural / honey,7.25,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.42,81.83,11.3
+Brazil,South America,Sitio Colinas,1000,Mantiquira de minas,Luis Flavio Pereira de Castro,Yellow Catuai,Pulped natural / honey,7.5,7.5,7.42,7.33,7.33,7.33,10.0,10.0,10.0,7.42,81.83,11.3
+Brazil,South America,Fazenda Olhos Dagua,950,Sul de Minas,Paulo Enidio Crabi,Catucai,Natural / Dry,7.42,7.5,7.58,7.33,7.33,7.25,10.0,10.0,10.0,7.33,81.75,11.1
+Colombia,South America,More than one,1574,Santander,More than one,Santander,Washed / Wet,7.33,7.5,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.33,81.75,11.2
+Mexico,North America,Finca San José,1200,"Coatepec, Veracruz",José Gerardo Gutierrez Morales,Typica,Washed / Wet,7.58,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,7.33,81.67,11.8
+Costa Rica,North America,HACIENDA SAN IGNACIO,1200,occidente,FJO ORLICH HNO LTDA,Caturra,Washed / Wet,7.33,7.42,7.25,7.42,7.42,7.33,10.0,10.0,10.0,7.42,81.58,9.7
+Taiwan,Asia,橫鹿,300,新北市,呂星輝,Typica,Pulped natural / honey,7.42,7.5,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.33,81.58,9.0
+Taiwan,Asia,大屯29莊園,435,臺北市,侯奕瑋,unknown,Pulped natural / honey,7.33,7.5,7.42,7.33,7.33,7.25,10.0,10.0,10.0,7.33,81.5,8.5
+Thailand,Asia,Doi Tung Development Project,1400,North of Thailand,Doi Tung Development Project,Java,Washed / Wet,7.33,7.42,7.25,7.33,7.5,7.42,10.0,10.0,10.0,7.17,81.42,11.6
+Thailand,Asia,Doi Lan,1400,Chiang Rai,Prakol Saelee,Typica Bourbon Caturra Catimor,Natural / Dry,7.42,7.25,7.33,7.42,7.33,7.33,10.0,10.0,10.0,7.25,81.33,10.5
+Thailand,Asia,Doi Tung Development Project,700,North of Thailand,Doi Tung Development Project,Catimor,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,10.0,10.0,10.0,7.17,81.17,10.4
+Colombia,South America,Escalera,1550,Cauca,Escalera,"Caturra,Colombia,Castillo",Washed / Wet,7.42,7.25,7.25,7.42,7.17,7.33,10.0,10.0,10.0,7.33,81.17,11.4
+Brazil,South America,Various farm,1200,Alta Mogiana-Ibiraci,Cocapil,,Natural / Dry,7.42,7.42,7.25,7.25,7.17,7.25,10.0,10.0,10.0,7.25,81.0,10.6
+El Salvador,North America,"Rosario de Maria II, Area de Loma Alta",1400,"Volcan Chinchontepek, San Vicente, El Salvador",Roselia Yglesias,Bourbon,Natural / Dry,7.42,7.33,7.33,7.5,7.08,7.0,10.0,10.0,10.0,7.17,80.83,10.5
+Nicaragua,North America,EXPORTADORA ATLANTIC S.A,1100,,Varios Productores,Caturra,Washed / Wet,7.25,7.25,7.17,7.33,7.08,7.25,10.0,10.0,10.0,7.17,80.5,11.5
+Nicaragua,North America,Sajonia Estate Coffee S.A.,1000,Jinotega,Sajonia Estate Coffee S.A.,Sarchimor,Washed / Wet,7.42,7.17,7.0,7.08,7.42,7.17,10.0,10.0,10.0,7.17,80.42,11.2
+Colombia,South America,Finca Mallorca,1600,"Caicedonia,Valle del Cauca",Finca Mallorca,"Castillo,Caturra,Bourbon",Washed / Wet,7.25,7.25,7.17,7.33,7.0,7.17,10.0,10.0,10.0,7.25,80.42,11.0
+Peru,South America,Fundo La Libertad,1600,"Chanchamayo, Lamerced",Sandro Crispin Espiritu,Caturra,Washed / Wet,7.5,7.25,7.17,7.17,7.17,7.08,10.0,10.0,10.0,7.0,80.33,11.8
+El Salvador,North America,"Rosario de Maria II, Area de Menjivar",1300,"Volcan Chinchontepek, San Vicente, El Salvador",Roselia Yglesias,Pacas,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,10.0,10.0,10.0,7.0,80.33,11.5
+Brazil,South America,Various farm,1200,Alta Mogiana-Ibiraci,COCAPIL,Catuai and Mundo Novo,Natural / Dry,7.25,7.17,7.17,7.08,7.17,7.17,10.0,10.0,10.0,7.17,80.17,11.6
+Brazil,South America,Fazenda Conquista,950,Sul de Minas,Ipanema Coffees,Mundo Novo,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,10.0,10.0,10.0,7.08,80.08,11.4
+Nicaragua,North America,Finca San Felipe,1200,Matagalpa,Exportadora Atlantic S.A.,SHG,Natural / Dry,7.33,7.08,6.75,7.17,7.42,7.17,10.0,10.0,10.0,7.08,80.0,10.4
+Laos,Asia,-,1300,Bolaven Plateau,"LAO MINH TIEN COFFEE SOLE CO.,LTD",Catimor,Washed / Wet,7.25,7.17,7.08,7.0,7.08,7.08,10.0,10.0,10.0,7.0,79.67,11.6
+El Salvador,North America,"Rosario de Maria II, Area de La Pila",1200,"Volcan de San Vicente, La Paz, El Salvador",Roselia Yglesias,Maragogype,Natural / Dry,6.5,6.75,6.75,7.17,7.08,7.0,10.0,10.0,10.0,6.83,78.08,11.0
+Brazil,South America,Walter Matter,975,Minas Gerais,Walter Matter,Mundo Novo,SEMI-LAVADO,7.25,7.08,6.67,6.83,6.83,6.67,10.0,10.0,10.0,6.67,78.0,11.3
