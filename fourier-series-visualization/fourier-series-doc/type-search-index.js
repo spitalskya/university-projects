@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fourier_series","l":"Complex"},{"p":"fourier_series","l":"FourierSeriesVisualizer.DrawPane"},{"p":"fourier_series","l":"FourierSeriesCalculator"},{"p":"fourier_series","l":"FourierSeriesVisualizer"}];updateSearchResults();

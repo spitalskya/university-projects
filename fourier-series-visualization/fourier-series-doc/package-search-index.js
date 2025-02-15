@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"fourier_series","l":"fourier_series"}];updateSearchResults();
