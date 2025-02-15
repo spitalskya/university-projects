@@ -1,0 +1,8 @@
+{
+    "file" : "API_MS.MIL.XPND.GD.ZS_DS2_en_csv_v2_144184.csv",
+    "name" : "military-expenditure",
+    "skip_top" : 4,
+    "indicator" : "MS.MIL.XPND.GD.ZS",
+    "from_year" : 2010,
+    "no_data_fill" : "avg"
+}

@@ -1,0 +1,45 @@
+Protocol from project
+
+Authors 
+-------
+
+spitalsky3
+
+Running the Flask app
+---------------
+The Flask app requires mainly following packages: Flask, pandas, numpy, scikit-learn, plotly, sqlite3
+
+The app is run by
+```
+make app
+```
+
+The Makefile rules `clean_data` and `create_db` can be used to transform raw data into cleaned and for creating a database from the cleaned data
+
+Submitted files
+---------------
+
+protocol.txt
+report/             directory containing report pdf, tex and figs
+
+Everything below is in `source` directory
+
+data/                   directory containing all the data used in this project
+data/raw/               unchanged democracy index dataset and directories with unchanged datasets from World bank, added clean_config.json files to each directory
+data/clean/             cleaned datasets
+data/clean/metadata     metadata of the cleaned data, brief description and sources
+data/db.sqlite          database where the clean data is stored
+
+data_handlers/                      directory with parts of code that interact with data
+data_handlers/data_cleaner.py       class and code responsible for cleaning the data
+data_handlers/database_creator.py   class and code responsible for creating the database
+data_handlers/database_handler.py   class responsible for interacting with the database
+
+processing/                         directory containing code that processes or displays the data
+processing/indicator_processor.py   class responsible for processing and displaying the data
+processing/processing_for_report    code for generating figures and tables for report
+
+static/     directory with CSS files for Flask app
+templates/  HTML templates for Flask app
+main.py     main file for the Flask app
+

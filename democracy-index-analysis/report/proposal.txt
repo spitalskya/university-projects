@@ -1,0 +1,13 @@
+Vysvetlenie úpadku demokratického indexu
+
+V mojom projekte by som sa chcel zamerať na štatistiku tzv. demokratického indexu (https://www.eiu.com/n/campaigns/democracy-index-2023/). Jedná sa o index na škále od 0 do 10, ktorý hodnotí napríklad volebný proces, politickú kultúru či občianske práva v 167 krajinách. Tento index sa vyhodnocuje od roku 2006 a v posledných rokoch môžeme pozorovať signifikantný úpadok priemernej hodnoty z celého sveta.
+
+V mojom projekte by som chcel pozorovať koreláciu hodnoty demokratického indexu štátov s ich štátnymi politikami, či inými štatistikami relevantnými pre štát. Konkrétne by som sa chcel pozrieť napríklad na výdavky na armádu a zbrojenie, výdavky na vedu a výskum, kvalitu edukácie, životnú úroveň, strednú dĺžku života a iné. Iné faktory, ktoré by mohli na túto štatistiku vplývať, sú napríklad aj vojny v regióne, či pandémia Covid-19. 
+
+Takisto trend, ktorý by som sa snažil vysvetliť pomocou štatistík uvedených vyššie, je úpadok demokratického indexu vo Východnej Európe oproti stúpajúcej hodnote v Západnej Európe v posledných rokoch.
+
+Dáta by som získaval najmä z portálu World Bank Data (https://data.worldbank.org/), pri potrebe bližšieho pohľad na Európu by som mohol použiť dáta aj z Eurostat-u (https://ec.europa.eu/eurostat/web/main/data/database), resp. pri Slovensku portál DATACube Štatistického úradu Slovenskej republiky. Získané dáta by samozrejme bolo treba vyčistiť, vyextrahovať roky relevantné pre demokratický index a nakoniec pracovať s iba jedným datasetom, buď vo forme SQL databázy alebo csv súboru.
+
+Cieľom by bolo vytvoriť interaktívnu webstránku pomocou Flask-u, ktorá by vizualizovala výsledky analýzy popísanej vyššie. Bolo by možné si rozkliknúť jednotlivé krajiny, kde by boli vizualizované získané dáta a ich odhadovaný vplyv na "demokratickosť" krajiny (napríklad pomocou lineárnej regresie). Takisto by som chcel implementovať interaktívny graf, kde by sa dali porovnávať krajiny zadané používateľom. 
+
+Najväčšia časť práce bude spravená v Python-e s využitím knižníc používaných na domácich úlohách, a ak by to nepredstavovalo problém, taktiež pravdepodobne knižníc matplotlib, pandas, geopandas a geoplot. Čistenie dát bude spravené buď pomocou Python-u alebo Perl scriptu.

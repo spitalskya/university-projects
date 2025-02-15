@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>{{country_name}}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+  <h1>{{ country_name }}</h1>
+
+  <p><b>Visualization of all collected data for {{country_name}}</b></p>
+
+  {% for plot in plots %}
+    <div>
+      <h2>{{plot.name}}</h2>
+      {{ plot.fig | safe }}
+    </div>
+  {% endfor %}
+
+</body>
+</html>

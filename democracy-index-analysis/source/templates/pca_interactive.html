@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Interactive PCA plotting</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+<h1>Interactive PCA plotting</h1>
+
+<p><b>This plot is a visualization of the PCA applied on the chosen indicators and the year</b><br>
+    The dots are colored by democratic index in the chosen year. You can for example observe cluster or gradient formation.
+</p>
+
+<!--AI generated form-->
+<form method="post" action="/pca_interactive/">
+    <label><b>Indicator choice</b></label><br>
+    {% for indicator in indicators %}
+        <input type="checkbox" id="{{ indicator.code }}" name="indicator_select" value="{{ indicator.code }}">
+        <label for="{{ indicator.code }}">{{ indicator.name }} ({{indicator.code}})</label><br>
+    {% endfor %}
+
+    <label for="year"><b>Year selection</b></label>
+    <select id="year" name="year">
+        {% for year in studied_years %}
+            <option value="{{ year }}" {% if year == selected_year %}selected{% endif %}>{{ year }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+{{pca | safe}}
+
+</body>
+</html>

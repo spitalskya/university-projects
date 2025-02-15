@@ -1,0 +1,8 @@
+{
+    "file" : "API_SP.DYN.LE00.IN_DS2_en_csv_v2_144366.csv",
+    "name" : "life-expectancy",
+    "skip_top" : 4,
+    "indicator" : "SP.DYN.LE00.IN",
+    "from_year" : 2010,
+    "no_data_fill" : "avg"
+}

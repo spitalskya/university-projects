@@ -1,0 +1,61 @@
+html, body {
+    margin: 4;
+    padding: 4;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #272525;
+    line-height: 1.6;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+    padding: 1em;
+}
+
+td {
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+}
+
+td.positive {
+    background-color: #6dd83c;
+}
+
+td.negative {
+    background-color: #d83c3c;
+}
+
+.twoCols {
+    display: flex;
+}
+
+.left, .right {
+    flex: 1; 
+    padding: 20px; 
+}

@@ -1,0 +1,8 @@
+{
+    "file" : "API_4_DS2_en_csv_v2_67184.csv",
+    "name" : "education",
+    "skip_top" : 4,
+    "indicator" : "SE.SEC.PROG.ZS",
+    "from_year" : 2010,
+    "no_data_fill" : "avg"
+}   

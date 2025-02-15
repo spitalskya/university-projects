@@ -1,0 +1,8 @@
+{
+    "file" : "API_NY.GDP.PCAP.CD_DS2_en_csv_v2_154618.csv",
+    "name" : "GDP",
+    "skip_top" : 4,
+    "indicator" : "NY.GDP.PCAP.CD",
+    "from_year" : 2010,
+    "no_data_fill" : "avg"
+}

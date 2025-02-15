@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Democracy index visualization in relationship with country metrics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+<h1>Democracy index visualization in relationship with country metrics</h1>
+<p><b>This is a website that visualizes democracy index data as well as other indicators collected by the World bank</b></p>
+
+<h2>Legend of indicator codes</h2>
+        
+    <table>
+        <tr>
+            <th>Code</th> <th>Meaning</th>
+        </tr>
+        {% for legend_row in indicator_legend %}
+            <tr>
+                <td>{{legend_row.code}}</td>
+                <td>{{legend_row.name}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+<div class="twoCols">
+    <div class="left">
+        <h2>Linear regression</h2>
+        <p>Results of the normalized and not normalized linear regression, where democratic index was supposed to be 
+            approximated by linear combination of other indicators
+        </p>
+
+        <table>
+            <tr>
+                <th></th>
+                <th>R²</th>
+                {% for indicator in coeffs_lin_reg.indicators %}
+                    <th>{{ indicator }}</th>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>Not normalized</th>
+                <td>{{coeffs_lin_reg.r2_orig}}</td>
+                {% for value in coeffs_lin_reg.values_orig %}
+                    <td class="{% if value > 0 %}positive{% else %}negative{% endif %}">
+                        {{ value }}
+                    </td>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>Normalized</th>
+                <td>{{coeffs_lin_reg.r2_norm}}</td>
+                {% for value in coeffs_lin_reg.values_norm %}
+                    <td class="{% if value > 0 %}positive{% else %}negative{% endif %}">
+                        {{ value }}
+                    </td>
+                {% endfor %}
+            </tr>  
+        </table>
+
+        <h3>Correlation matrix</h3>
+
+        {{corr | safe}}
+        
+        <h3>Without correlated columns</h3>
+        <p>Dropped columns: <br>
+            {% for col in corr_drop%}
+                {{col}} <br>
+            {% endfor %}
+        </p>
+        <table>
+            <tr>
+                <th></th>
+                <th>R²</th>
+                {% for indicator in coeffs_lin_reg_corr.indicators %}
+                    <th>{{ indicator }}</th>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>Not normalized</th>
+                <td>{{coeffs_lin_reg_corr.r2_orig}}</td>
+                {% for value in coeffs_lin_reg_corr.values_orig %}
+                    <td class="{% if value > 0 %}positive{% else %}negative{% endif %}">
+                        {{ value }}
+                    </td>
+                {% endfor %}
+            </tr>
+            <tr>
+                <th>Normalized</th>
+                <td>{{coeffs_lin_reg_corr.r2_norm}}</td>
+                {% for value in coeffs_lin_reg_corr.values_norm %}
+                    <td class="{% if value > 0 %}positive{% else %}negative{% endif %}">
+                        {{ value }}
+                    </td>
+                {% endfor %}
+            </tr>  
+        </table>
+
+    </div>
+    <div class="right">
+        <h2>Globe</h2>
+        <p>Here you can set a year and an indicator by which the countries should be colored</p>
+
+        <!--AI generated form-->
+        <form method="post" action="/">
+            <select name="year_globe">
+                {% for year in studied_years %}
+                    <option value="{{ year }}">{{ year }}</option>
+                {% endfor %}
+            </select>
+            <select name="indicator_globe" >
+                {% for indicator in indicator_codes %}
+                    <option value="{{ indicator }}">{{ indicator }}</option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+
+        <div>
+            {{ globe|safe }}
+        </div>
+    </div>
+    
+</div>
+
+<h2>PCA</h2>
+
+<p><a href="{{ url_for('pca_interactive') }}">Interactive PCA plotting</a></p>
+
+<p>After you choose a year, PCA for data from this year is calculated</p>
+
+<!--AI generated form-->
+<form method="post" action="/">
+    <select name="year_pca" onchange="this.form.submit()">
+        {% for year in studied_years %}
+            <option value="{{ year }}" {% if year == selected_year_pca %}selected{% endif %}>{{ year }}</option>
+        {% endfor %}
+    </select>
+</form>
+<br>
+
+<div>
+    {{ pca|safe }}
+</div>
+
+<h2>List of countries</h2>
+<form method="GET" action="/">
+    <input type="text" name="q" placeholder="Search for country" value="{{ search_query }}">
+    <button type="submit">Search</button>
+</form>
+
+<ul>
+    {% for country in countries %}
+        <li><a href="{{ url_for('country', country_name=country) }}">{{ country }}</a></li>
+    {% endfor %}
+</ul>
+
+<!-- Pagination -->
+<div>
+    {% if current_page > 1 %}
+        <a href="?q={{ search_query }}&page={{ current_page - 1 }}">Previous</a>
+    {% endif %}
+
+    Strana {{ current_page }} z {{ total_pages }}
+
+    {% if current_page < total_pages %}
+        <a href="?q={{ search_query }}&page={{ current_page + 1 }}">Next</a>
+    {% endif %}
+</div>
+
+<footer>Made by: Andrej Špitalský, 2DAV</footer>
+
+</body>
+
+</html>
